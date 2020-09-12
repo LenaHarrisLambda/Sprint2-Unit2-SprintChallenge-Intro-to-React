@@ -7,10 +7,8 @@ const Characters = props => {
 	return (
         <div className='Characters'>
 			<div className='Character'>
-
 			</div>
 		</div>
     )
 }
-
 export default Characters;
